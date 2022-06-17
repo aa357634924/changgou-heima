@@ -25,7 +25,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.51</version>
+            <version>1.2.83</version>
         </dependency>
         <!--   openfeign  负载均衡+远程方法调用   -->
         <dependency>
